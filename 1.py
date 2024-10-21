@@ -1,2 +1,2 @@
-for n in range(20):
-    print("Eu gosto de estudar Algoritmos!")
+for n in range(1, 11):
+    print(n)
